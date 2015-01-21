@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
   conditions="">
@@ -84,7 +84,6 @@
     PageNumberFormat="decimal"></TocEntry>
   <TocEntry
     Title="Links and Lists"
-    Link="/Content/B_Links and Lists/LinksAndLists.htm"
     PageLayout="/Content/Resources/PageLayouts/7X9/Chapters7X9.flpgl"
     PageNumber=""
     PageNumberReset="continue"
